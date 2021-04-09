@@ -17,8 +17,8 @@ ActiveRecord::Schema.define(version: 2021_04_09_191119) do
 
   create_table "infos", force: :cascade do |t|
     t.string "name"
-    t.integer "salary"
-    t.integer "year"
+    t.string "salary"
+    t.string "year"
     t.string "level"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
