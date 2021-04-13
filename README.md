@@ -1,6 +1,6 @@
 # README
 
-## Table of Contens
+## Table of Contents
 - About
 - Getting Started
 - Stack
