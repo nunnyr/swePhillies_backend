@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Table of Contens
+- About
+- Getting Started
+- Stack
 
-Things you may want to cover:
+This webscraper used Rails to gather information based on contracts.
+Information was cleaned and saved to a backend.
 
-* Ruby version
+## Getting Started
+- Run bundle on your terminal
+- Run rails s to start up your server locally
 
-* System dependencies
+## Stack
+- Rails 
+- Javascript
+- Chart.js
 
-* Configuration
+## Future Work
+- Develop the visualization for contracts with Chart.js
+- Focus on accessibility for data visualization.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
